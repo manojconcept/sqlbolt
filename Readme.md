@@ -1,0 +1,1 @@
+## SqlBolt Interactive exercises.
